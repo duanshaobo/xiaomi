@@ -1,0 +1,51 @@
+{
+  "id": "1910113",
+  "name": "小米官网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2678301",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "7549348",
+      "name": "搜索",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "9465108",
+      "name": "闪电",
+      "font_class": "shandian-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11487977",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "11487978",
+      "name": "arrow-lift",
+      "font_class": "arrow-lift",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "12582684",
+      "name": "扳手",
+      "font_class": "banshou",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}
